@@ -1,0 +1,2 @@
+C:\dev\clustered\Debug\clustered.exe
+C:\dev\clustered\Debug\clustered.pdb

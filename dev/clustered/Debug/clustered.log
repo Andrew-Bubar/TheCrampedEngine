@@ -1,0 +1,5 @@
+﻿  Game.cpp
+C:\dev\clustered\src\Game.cpp(52,32): warning C4129: 's': unrecognized character escape sequence
+C:\dev\clustered\src\Game.cpp(52,32): warning C4129: 'p': unrecognized character escape sequence
+C:\dev\clustered\src\Game.cpp(52,32): warning C4129: 'i': unrecognized character escape sequence
+  clustered.vcxproj -> C:\dev\clustered\Debug\clustered.exe
